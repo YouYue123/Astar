@@ -1,3 +1,3 @@
 # Astar
 Astar Algorithm
-A*算法的简单实现
+A*算法的C++实现
